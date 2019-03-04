@@ -68,7 +68,7 @@ export default class App extends Component<Props> {
     );
   }
 }
-#F0F8FF
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,
